@@ -1,0 +1,6 @@
+node_modules
+coverage
+out
+tool
+bin
+.eslintrc.cjs
