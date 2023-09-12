@@ -37,6 +37,7 @@
     "sinon": "^13.0.1",
     "typescript": "^4.6.2"
   },
+  "module": "out/resolver.js",
   "type": "module",
   "types": "out/resolver.d.ts",
   "exports": {
