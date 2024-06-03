@@ -38,6 +38,7 @@
     "typescript": "^5.2.2"
   },
   "module": "out/resolver.js",
+  "main": "out/resolver.js",
   "type": "module",
   "types": "out/resolver.d.ts",
   "exports": {
