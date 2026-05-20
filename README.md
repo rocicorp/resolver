@@ -1,3 +1,6 @@
+> [!WARNING]
+> **Deprecated:** Use [`Promise.withResolvers`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/withResolvers) instead.
+
 # Resolver
 
 Provides a simple `Promise` resolver
